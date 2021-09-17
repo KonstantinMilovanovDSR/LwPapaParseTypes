@@ -1,0 +1,19 @@
+{
+    "name": "lw-papaparse-types",
+    "version": "5.3.1-1",
+    "homepage": "https://github.com/aleksandr-erin/LwPapaParseTypes",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/aleksandr-erin/LwPapaParseTypes.git"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/aleksandr-erin/LwPapaParseTypes/issues"
+    },
+    "engines": {
+        "node": ">=7.8.0"
+    },
+    "devDependencies": {
+        "typescript": "next"
+    }
+}
