@@ -57,7 +57,7 @@ export const NODE_STREAM_INPUT = 1;
 // The possible values for the ParseConfig property delimitersToGuess
 export type GuessableDelimiters = ',' | '\t' | '|' | ';' | RECORD_SEP_TYPE | UNIT_SEP_TYPE;
 
-export interface DesiredFieldNamesConfig = {
+export interface DesiredFieldNamesConfig {
     desiredField: string;
     synonymFields: string[];
 };
